@@ -1,0 +1,13 @@
+MULTIPLE FACE DETECTION 
+
+ABOUT THE MODEL
+
+The code provides a simple real-time face detection system using a webcam feed and alerts when it detects multiple faces and prints "suspicious activity Detected".
+
+DESCRIPTION OF THE MODEL
+
+->The Model is imported from MediaPipe and then I finetuned the pre-trained model.The model is used for tasks such as face detection, hand tracking, pose estimation, and more.
+
+->The dataset I found in HuggingFace was not accurated,So I took the dataset from github and modified it
+ 
+->Press Esc key to close the web cam
