@@ -1,11 +1,3 @@
 MULTIPLE FACE DETECTION AND AUDIO TO TEXT CONVERSION
 
-The code provides a simple real-time face detection system using a webcam feed and alerts when it detects multiple faces and prints "suspicious activity Detected" and the moment the web cam detects multiple face it starts recording the audio and converts it to text
-
-DESCRIPTION
-
-->Combined the multiple face detection code along with Audio to text conversion code
-->The Audio to text conversion code is about 
-It can be used for applications such as monitoring and recording conversations when multiple faces are detected in a video feed.
-->We need to add a new file name test.txt in the jupiter
-notebook directory,In this file is recorded in text when it captures multiple faces in the video feed
+Integrating multiple face detection with audio-to-text conversion for real-time conversation monitoring and recording. Upon detecting multiple faces in a video feed, this project captures and transcribes the audio content into text, facilitating applications like surveillance and documentation. Additionally, the system creates a 'test.txt' file in the Jupiter notebook directory to log these instances.
